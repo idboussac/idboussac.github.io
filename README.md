@@ -60,3 +60,5 @@ bundle exec jekyll serve --watch
 ```
 to see changes while working.
 Once you are done adding new contents, commit your changes, push them to your branch and create your merge request to our master branch.
+
+
