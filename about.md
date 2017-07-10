@@ -10,9 +10,7 @@ Cette approche disruptive doit permettre d’augmenter le niveau de sécurité 
 Ce cas d’usage a donné lieu aux USA à un appel à projet explicite « Applicability of Blockchain Technology to Privacy Respecting Identity Management » du « Department of Homeland Security ». 
 Plusieurs travaux et initiatives (NameID, EmerCoin/EMCSSL, ShoCard, Onename, IDCoin, Synereo, ..) sont en cours au niveau international. ID-BLOCKCHAIN vient les compléter entre autre dans la dimension protection de la vie privée, telle qu’elle est définie et réglementée dans les pays européens.
 
-Start Date: October 1, 2016
-Duration: 24 months
-Cost: 1 178 k€
-Effort: 15.5 man*year
-BPI France Funding: 567 k€
-
+* Date de lancement: 1er Octobre 2016
+* Durée: 24 mois
+* Effort: 15.5 personne*an
+* Financement BPI France: 48%
