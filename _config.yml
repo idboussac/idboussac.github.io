@@ -2,6 +2,7 @@
 title: idblockchain
 description: 'A working platform to communicate about idblockchain project'
 url: https://idboussac.github.io
+baseurl: ""
 date_format: '%B %d, %Y'
 fort_awesome_icon: 'cog fa-spin'
 
@@ -44,13 +45,5 @@ highlighter: rouge
 # Gems
 gems: ['jekyll-paginate', 'kramdown']
 # Exclude
-# exclude: ['README.md', 'config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+exclude: ['README.md', 'config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
 
-# Exclude these files from production site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
-  - Vagrantfile
