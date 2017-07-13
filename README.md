@@ -49,7 +49,7 @@ layout: post
 title: Your Title
 date: 2017-06-23
 ---
-``
+```
 When you are happy with your new post or changes, compile them into static files:
 ```
 jekyll serve
