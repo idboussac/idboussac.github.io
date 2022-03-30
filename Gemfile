@@ -3,7 +3,7 @@ ruby '2.4.0'
 gem 'kramdown', '1.13.2'
 gem 'rack-jekyll', '0.5.0'
 gem 'rake', '12.0.0'
-gem 'puma', '3.7.1'
+gem 'puma', '4.3.12'
 gem "yajl-ruby", ">= 1.3.1"
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
